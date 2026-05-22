@@ -6,7 +6,7 @@
 A web-based **Smart Traffic Congestion and Routing System** that helps users find **optimized and alternative routes** using **live location or manual start-point selection**, designed especially for **campus and nearby community roads**.
 
 🔗 **Live Demo (MVP):**  
-https://gowthamk-dev.github.io/smart-traffic-congestion-routing-system/
+ https://gowthamvanjimuthu-cyber.github.io/smart-traffic-congestion-and-routing-system/
 
 ---
 
